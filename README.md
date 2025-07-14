@@ -11,7 +11,7 @@
 - Lightweight and beginner-friendly
 
 ## 🎬 Demo Video
-
+https://github.com/Fathi-Meriem/Task-Management-Project/releases/download/v1.0/task-management-project.mp4
 
 
 ## 🛠️ Technologies Used
